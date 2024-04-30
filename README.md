@@ -15,6 +15,7 @@ The main and intended objective is to analyze reviews and other text (natural la
 - Set either "model_epoch_4" or "model_epoch_5" as the model_path variable
 - Run the "run_sentiment_analysis.py" file to try and test
 
-  # Note
+# Note
 
-  The model predicts "positive" and "negative" sentiments fairly accurately, however, it produces undesirable results for "neutral" predictions. This will most likely be fixed with some future updates.
+- The model only predicts English sentences and phrases accurately, other languages may be added in the future.
+- The model predicts "positive" and "negative" sentiments fairly accurately, however, it produces undesirable results for "neutral" predictions. This will most likely be fixed with some future updates.
