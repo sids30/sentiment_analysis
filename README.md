@@ -9,7 +9,7 @@ The main and intended objective is to analyze reviews and other text (natural la
 # Instructions:
 
 - Clone the repository to your working directory
-- - Install .zip file from the Google Drive link (*https://drive.google.com/file/d/1On1BdUn2AAEHLihehvYfLPuTZ4LmMUcj/view?usp=sharing*), that has the required PyTorch (.pt) files that contain model epochs 4 and 5 for running the model
+- - Install .zip file from the Google Drive link (https://drive.google.com/file/d/1On1BdUn2AAEHLihehvYfLPuTZ4LmMUcj/view?usp=sharing), that has the required PyTorch (.pt) files that contain model epochs 4 and 5 for running the model
 - Install libraries (pip[3] install pandas torch transformers scikit-learn) to your current working directory
 - Install any other required dependencies
 - In the Set either "model_epoch_4" or "model_epoch_5" as the model_path variable
@@ -17,7 +17,7 @@ The main and intended objective is to analyze reviews and other text (natural la
 
 # Fair usage warning (bing.csv)
 
-The data set (*bing.csv*) is provided as is for educational and research purposes only. It is not intended for commercial use. License information for this data set is unknown. Users should independently verify the validity of the license terms before using the dataset for purposes other than education or research. The dataset used was created by the Kaggle user, Andrada and her datasets can be explored here: *https://www.kaggle.com/datasets/andradaolteanu/bing-nrc-afinn-lexicons*
+The data set (*bing.csv*) is provided as is for educational and research purposes only. It is not intended for commercial use. License information for this data set is unknown. Users should independently verify the validity of the license terms before using the dataset for purposes other than education or research. The dataset used was created by the Kaggle user, Andrada and her datasets can be explored here: https://www.kaggle.com/datasets/andradaolteanu/bing-nrc-afinn-lexicons
 
 
 # Note
