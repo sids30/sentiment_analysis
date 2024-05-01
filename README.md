@@ -12,7 +12,7 @@ The main and intended objective is to analyze reviews and other text (natural la
 - Install .zip file from the Google Drive link (https://drive.google.com/file/d/1On1BdUn2AAEHLihehvYfLPuTZ4LmMUcj/view?usp=sharing), that has the required PyTorch (.pt) files that contain model epochs 4 and 5 for running the model
 - Install libraries (pip[3] install pandas torch transformers scikit-learn) to your current working directory
 - Install any other required dependencies
-- In the Set either "model_epoch_4.pt" or "model_epoch_5.pt" as the model_path variable
+- In the *run_sentiment_analysis* file, set the model_path variable as, either "model_epoch_4.pt", or "model_epoch_5.pt"
 - Run the *run_sentiment_analysis.py* file to try and test
 
 # Fair usage warning (bing.csv)
